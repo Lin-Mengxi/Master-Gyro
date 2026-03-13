@@ -1,5 +1,5 @@
 % 原代码地址：https://github.com/DongHT/Multibody_dynamics_formula_derivation_and_simulation
-% 仅学习使用
+% 仅学习使用，本人添加注释，优化部分代码
 %%%%%% 清理工作区、命令行窗口、关闭图窗 %%%%%%
 clear;
 clc;
